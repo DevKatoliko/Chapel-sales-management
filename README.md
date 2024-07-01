@@ -1,0 +1,1 @@
+This is a personal project for a management of books that are sold in the chapel that i'm part of, and of which the books that are sold I must make a report that contains infomation about the quantity and the values of them.
